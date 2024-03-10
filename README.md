@@ -37,6 +37,27 @@
      + https://wikidocs.net/94600
 
 
+Session II: 
+
+1. 크롤링 사례
+  
+  - 논문수집: https://wikidocs.net/211405
+  
+  - BTS가수 크롤링: https://wikidocs.net/214309
+
+
+2. 데이터 전처리
+  
+  - 정규화, 토큰화, 어근화, 어근추출: https://team-platform.tistory.com/38
+  
+  - konlpy 형태소 분석기: https://konlpy.org/en/latest/
+  
+  - 키위형태소 분석기: https://github.com/bab2min/kiwipiepy
+
+
+3. 텍스트 빈도분석과 워드 클라우드 
+   https://wikidocs.net/214313
+
 # Word2Vec과 같이 자연어 처리를 위해 위 예제를 공부함.
 
 # 한국어 전처리를 위해 사용되는 konlpy의 okt라는 형태소 분석기를 사용하는데 이 형태소 분석기를 사용하기 위해 버전 맞추느라 엄청 고생했던 기억이 있음.
